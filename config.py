@@ -4,7 +4,8 @@ class Config:
     '''
     General configuration parent class
     '''
-    SECRET_KEY = os.environ.get('SECRET_KEY')
+    SECRET_KEY = 'TopSecret'
+    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://eshirera:topsecret@localhost/pitch'
 
 
 

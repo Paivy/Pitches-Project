@@ -62,7 +62,7 @@ Run the following commands to allow functionality of the app:-
 
 ## Technical Requirements
 
-This can be found in the specs.md file.
+
 
 ## User Stories
 
